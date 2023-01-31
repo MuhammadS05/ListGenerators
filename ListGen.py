@@ -13,5 +13,3 @@ for i in sonlar:
     if i % 2 == 0:
         juft.append(i)
 print(juft)
-
-print("RO'YXAT ICHIDAGI SONLARDAN MA'LUM BIRIGACHA BO'LGAN BARCHA JUFT SONLARNI CHIQARUVCHI ODDIY KOD".lower())
